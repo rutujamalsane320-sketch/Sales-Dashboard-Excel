@@ -28,6 +28,6 @@ Files Included
 - Sales_Dashboard.xlsx
 - Screenshots
 
-Author
+Author   
 Rutuja Malsane
 Aspiring Data Analyst
